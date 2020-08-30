@@ -1,0 +1,16 @@
+.paginatorBlock {
+    padding: 10px 0;
+}
+
+.pageNumber {
+    margin: 2px;
+    border: 1px solid #999;
+    cursor: pointer;
+    padding: 4px 6px;
+    border-radius: 6px;
+}
+
+.selectedPage {
+    border: 2px solid #555;
+    font-weight: bold;
+}

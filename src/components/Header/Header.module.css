@@ -1,0 +1,23 @@
+.header {
+    padding: 10px;
+    color: white;
+    grid-area: header;
+    background-color: gray;
+    display: flex;
+}
+
+.header img {
+    width: 50px;
+}
+
+.loginBlock{
+    margin-left: auto;
+}
+
+.loginBlock a{
+    color: white;
+}
+
+/*
+#0095f6;
+*/
